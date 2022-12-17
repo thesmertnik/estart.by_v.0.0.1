@@ -1,0 +1,23 @@
+{
+  "short_name": "estart",
+  "name": "estart.by",
+  "icons": [{
+    "src": "icon.png",
+    "type": "image/png",
+    "sizes": "192x192"
+  }],
+  "start_url": "https://estart.smertnik.site/index.html",
+  "background_color": "#fafafa",
+  "theme_color": "#fafafa",
+
+ "scope": "https://estart.smertnik.site/",
+ "yandex": {
+ "manifest_version": 1,
+ "app_version": "1.0.0",
+ "cache": {
+ "resources": [
+ "css/main.css",
+ "js/main.js",
+ "icon.png",
+ ],
+
