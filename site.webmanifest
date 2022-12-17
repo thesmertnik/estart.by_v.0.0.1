@@ -6,11 +6,11 @@
     "type": "image/png",
     "sizes": "192x192"
   }],
-  "start_url": "https://estart.smertnik.site/index.html",
+  "start_url": "https://smertnik.site/index.html",
   "background_color": "#fafafa",
   "theme_color": "#fafafa",
 
- "scope": "https://estart.smertnik.site/",
+ "scope": "https://smertnik.site/",
  "yandex": {
  "manifest_version": 1,
  "app_version": "1.0.0",
