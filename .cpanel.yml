@@ -1,6 +1,6 @@
 ---
 deployment:
   tasks:
-    - export REPOPATH=/home/smertnik/repositories/estart_v1/*
-    - export SITEPATH=/home/smertnik/estart.smertnik.site/
+    - export REPOPATH=/home/smertnik/repositories/estart.by_v.0.0.1/*
+    - export SITEPATH=/home/smertnik/smertnik.site/
     - /bin/rsync -rav --exclude '.git' --exclude '.cpanel.yml' --del $REPOPATH $SITEPATH
